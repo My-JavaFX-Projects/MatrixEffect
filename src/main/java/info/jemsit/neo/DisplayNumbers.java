@@ -1,3 +1,5 @@
+package info.jemsit.neo; // example
+
 import javafx.animation.AnimationTimer;
 import javafx.animation.FadeTransition;
 import javafx.scene.layout.VBox;

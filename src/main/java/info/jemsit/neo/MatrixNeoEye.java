@@ -1,15 +1,11 @@
-import javafx.animation.AnimationTimer;
-import javafx.animation.TranslateTransition;
+package info.jemsit.neo; // example
+
 import javafx.application.Application;
-import javafx.scene.Group;
 import javafx.scene.Scene;
-import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
-import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
-import javafx.util.Duration;
 
 
 public class MatrixNeoEye extends Application {

@@ -1,3 +1,5 @@
+package info.jemsit.neo; // example
+
 import javafx.application.Application;
 
 public class Main {
